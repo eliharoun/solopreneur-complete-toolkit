@@ -13,8 +13,8 @@
 - [Phase 6: Growth & Optimization](#phase-6-growth--optimization)
 - [Phase 7: Scale & Maturity](#phase-7-scale--maturity)
 - [Phase 8: Exit Strategy](#phase-8-exit-strategy)
-- [Contributing](#contributing)
-- [Support](#support)
+- [Contributing](#-contributing)
+- [Support](#-support)
 
 ---
 
