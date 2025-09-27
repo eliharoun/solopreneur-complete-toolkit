@@ -14,7 +14,6 @@
 - [Phase 7: Scale & Maturity](#phase-7-scale--maturity)
 - [Phase 8: Exit Strategy](#phase-8-exit-strategy)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
