@@ -74,6 +74,8 @@
 - **[Vibecode](https://www.vibecodeapp.com/)** — Mobile app builder for app stores
 - **[Google AI Studio](https://aistudio.google.com/apps)** — Prototype with Gemini
 - **[Airtable](https://www.airtable.com/)** — Database-driven apps and automations
+- **[Z.ai](https://chat.z.ai/)** — AI fullstack engineer 
+- **[InstaLanding AI](https://instalanding.ai/)** — Professional landing page prompts for no-code site builders
 
 ---
 
@@ -257,6 +259,7 @@
 - **[n8n](https://n8n.io/)** — Open-source automation
 - **[Make](https://www.make.com/)** — Visual automation platform
 - **[GenSpark](https://www.genspark.ai/)** — AI super agent for multiple tasks
+- **[Opal](https://opal.withgoogle.com/)** — Google tool for creating AI mini-apps with no code
 
 ### 💼 Lead Generation & Sales
 *Find your customers*
