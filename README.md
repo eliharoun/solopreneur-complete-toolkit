@@ -20,14 +20,27 @@
 
 ## Phase 1: Discovery & Ideation
 
-### 🤖 AI Assistants for Brainstorming
-*Start here if you don't have an idea yet or want to refine your thinking*
+### 💡 Finding Ideas
+*Start here if you don't have an idea yet*
+
+- **[Idea Browser](https://www.ideabrowser.com/features)** — Daily curated startup ideas with full description, research, and action plan; paid plan gives access to the full ideas database
+- **[eBiz Facts](https://ebizfacts.com/)** — Weekly newsletter highlighting business ideas with revenue data from real companies, useful to adapt for your niche
+- **[Indie Page Leaderboard](https://indiepa.ge/leaderboard)** — Top 50 indie maker projects ranked by verified Stripe revenue, great for inspiration or idea adaptation
+- **[Exploding Topics](https://explodingtopics.com/)** — Platform showing emerging trends before they go mainstream, ideal for finding ideas in growing markets
+- **[Reddit Communities](https://www.reddit.com/r/startups/)** — Explore communities to find problems people want solved; use [Gummy Search](https://gummysearch.com/) to identify relevant discussions
+
+
+### 🤖 AI for Brainstorming
+*Brainstorm and expand on existing ideas*
 
 - **[ChatGPT](https://chatgpt.com/)** — Conversational AI for ideation and reasoning
 - **[Claude](https://claude.ai/)** — Deep reasoning and structured thinking for idea exploration
-- **[Wisp + Claude](https://wisprflow.ai/use-cases/claude)** — Structured brainstorming tool
+- **[Wispr + Claude](https://wisprflow.ai/use-cases/claude)** — Structured brainstorming tool
 - **[Google Gemini](https://gemini.google/)** — Multimodal AI for diverse perspectives
 - **[Manus](https://manus.im/)** — AI assistant for knowledge synthesis
+- **[Z AI](https://z.ai/)** — AI assistant for knowledge synthesis
+- **[kimi](https://www.kimi.com/)** — AI assistant for knowledge synthesis
+
 
 ### 🔍 Market Research & Validation
 *Validate demand before building*
@@ -53,6 +66,7 @@
 *Create your first visual concepts*
 
 - **[MagicPatterns](https://www.magicpatterns.com/)** — AI-powered design generation
+- **[Stitch](https://stitch.withgoogle.com/)** — From prompts ready-to-use UI designs and code (by Google)
 
 ### 🏠 Landing Pages & Marketing Sites
 *Test your value proposition*
@@ -69,7 +83,8 @@
 - **[Bolt.new](https://bolt.new/)** — Browser-based AI builder
 - **[Lovable.dev](https://lovable.dev/)** — Chat-to-software interface
 - **[Orchids.app](https://www.orchids.app/)** — AI fullstack engineer
-- **[Rocket.new](https://www.rocket.new/)** — Prompt-based builder with hosting
+- **[Rocket.new](https://www.rocket.new/)** — Prompt-based App/site builder with hosting
+- **[lindy.ai](https://www.lindy.ai/)** — Prompt-based builder
 - **[Base44](https://base44.com/)** — Complete apps with auth from prompts
 - **[Vibecode](https://www.vibecodeapp.com/)** — Mobile app builder for app stores
 - **[Google AI Studio](https://aistudio.google.com/apps)** — Prototype with Gemini
@@ -88,13 +103,14 @@
 - **[Cloudflare Registrar](https://www.cloudflare.com/products/registrar/)** — At-cost domain registration
 - **[Porkbun](https://porkbun.com/)** — Domain registration with free WHOIS privacy
 
-### 💻 Development Environment & Coding
-*Set up your coding workspace*
+### 💻 AI-First App Builders
+*Go from idea to app*
 
 - **[Replit](https://replit.com/)** — Browser IDE with instant publishing
-- **[GitHub](https://github.com)** — Version control and collaboration
 - **[Emergent](https://app.emergent.sh/)** — AI vibe-coding for production apps
 - **[Rork](https://rork.com/)** — Mobile app development
+- **[Bloom](https://bloom.diy/)** — No-code mobile app development
+- **[Copycoder](https://bloom.diy/)** — UI design generation and replication
 
 ### 🤖 AI Coding Assistants
 *Accelerate your development*
@@ -102,9 +118,10 @@
 - **[Cursor](https://cursor.com/)** — AI-first code editor
 - **[Claude Code](https://claude.com/product/claude-code)** — Terminal-based AI coding
 - **[Cline](https://cline.bot/)** — Autonomous local coding agent
+- **[Augment Code](https://augmentcode.com/)** — Autonomous local coding agent
 - **[Windsurf](https://windsurf.com/)** — Collaborative AI IDE
 - **[Kilocode](https://kilocode.ai/)** — AI coding for apps and automation
-- **[ChatGPT Code Agent](https://chatgpt.com/g/g-k3IqoCe1l-code)** — Specialized code assistant
+- **[ChatGPT Codex](https://chatgpt.com/codex)** — AI coding assistant, powered by GPT-5
 
 ### 🔧 Backend & Infrastructure
 *Build your technical foundation*
@@ -124,6 +141,7 @@
 *Keep your knowledge organized*
 
 - **[GitBook](https://www.gitbook.com/)** — Documentation platform
+- **[GitHub](https://github.com)** — Version control and collaboration
 - **[Mintlify](https://mintlify.com/)** — Beautiful documentation
 - **[Docusaurus](https://docusaurus.io/)** — Open-source docs website
 - **[Notion](https://www.notion.so/)** — All-in-one workspace
@@ -151,11 +169,13 @@
 - **[Fathom](https://fathomhq.com/)** — Financial analysis and reporting
 
 ### 💳 Payment Processing
-*Accept money from customers*
+*Accept money from customers / paywall / subscriptions*
 
 - **[Stripe](https://stripe.com/)** — Developer-friendly payments and subscriptions
 - **[PayPal](https://www.paypal.com/)** — Global payment acceptance
 - **[Square](https://squareup.com/)** — Online and in-person payments
+- **[Superwall](https://superwall.com/)** — No-code in-app payments and subscription management
+- **[RevenueCat](https://revenuecat.com/)** — Cross-platform subscription and payment backend
 - **[Paddle](https://www.paddle.com/)** — SaaS billing and taxes
 - **[LemonSqueezy](https://www.lemonsqueezy.com/)** — Payments for digital products
 
@@ -178,6 +198,7 @@
 - **[Vercel](https://vercel.com/)** — Frontend hosting and deployment
 - **[Netlify](https://www.netlify.com/)** — Web app deployment
 - **[Cloudflare Pages](https://pages.cloudflare.com/)** — JAMstack deployment
+- **[Expo Launch](https://launch.expo.dev/)** — Deploy mobile apps to the App Store and Play Store directly from your browser
 
 ### 📧 Email Infrastructure
 *Communicate with users*
