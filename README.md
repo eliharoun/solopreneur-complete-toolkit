@@ -110,7 +110,7 @@
 - **[Emergent](https://app.emergent.sh/)** — AI vibe-coding for production apps
 - **[Rork](https://rork.com/)** — Mobile app development
 - **[Bloom](https://bloom.diy/)** — No-code mobile app development
-- **[Copycoder](https://bloom.diy/)** — UI design generation and replication
+- **[Copycoder](https://copycoder.ai/)** — UI design generation and replication
 
 ### 🤖 AI Coding Assistants
 *Accelerate your development*
