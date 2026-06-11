@@ -158,6 +158,7 @@
 - **[Formations LLC](https://formations.llc/)** — LLC/corporation services
 - **[LLCifi](https://www.llcifi.com/llcifi/form-in-llc/)** — Guided LLC formation
 - **[LegalZoom](https://www.legalzoom.com/)** — Full legal services
+- **[LLC Class](https://llcclass.com/)** — Wyoming LLC registration for non-US founders with registered agent, EIN, and operating agreement
 
 ### 💰 Financial Management
 *Keep your finances in order*
