@@ -47,6 +47,7 @@
 
 - **[OpenAI Deep Research](https://openai.com/index/introducing-deep-research/)** — In-depth AI research reports
 - **[GummySearch](https://gummysearch.com/)** — Find pain points and demand signals on Reddit/forums
+- **[IdeaHunter](https://ideahunter.today/)** — AI research for demand-backed app and micro-SaaS ideas
 - **[SparkToro](https://sparktoro.com/)** — Audience intelligence and research
 - **[AI Tool Hub](https://aitoolhub.co/)** — Discover competitive landscape in AI tools
 
