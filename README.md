@@ -273,6 +273,8 @@
 - **[Circle](https://circle.so/)** — Community platform for creators
 - **[Discourse](https://www.discourse.org/)** — Open-source discussion platform
 
+- **[Koveto-Vasarlas.hu Engagement Calculator](https://koveto-vasarlas.hu/tools/engagement-rate)** — Free Hungarian calculator for manually entered likes/comments ratios with followers, reach or views as the denominator.
+
 ### ⚙️ Automation & Workflows
 *Scale your operations*
 
