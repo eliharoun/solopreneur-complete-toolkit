@@ -167,6 +167,7 @@
 - **[Xero](https://www.xero.com/)** — Cloud accounting software
 - **[Expensify](https://www.expensify.com/)** — Expense management
 - **[Fathom](https://fathomhq.com/)** — Financial analysis and reporting
+- **[DDScore](https://www.ddscore.ai/)** — First-pass due diligence for private companies, with document cross-checks, evidence gaps, and follow-up questions
 
 ### 💳 Payment Processing
 *Accept money from customers / paywall / subscriptions*
